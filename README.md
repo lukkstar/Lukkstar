@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luka Janjgava</h1>
-<h3 align="center">As a Front-End developer, I began my journey with HTML and CSS, but soon became fascinated by the endless possibilities that React.js offers. With its continuous updates and ever-evolving technology, React.js has become my primary focus and passion. I specialize in building scalable, responsive applications that prioritize user experience. I bring a passion for creating intuitive and engaging user interfaces to every project I work on.</h3>
+<h3 align="center">As a Front-End developer, I began my journey with HTML and CSS, but soon became fascinated by the endless possibilities that React.js offers. With its continuous updates and ever-evolving technology, React.js has become my primary focus and passion. <br> I specialize in building scalable, responsive applications that prioritize user experience. I bring a passion for creating intuitive and engaging user interfaces to every project I work on.</h3>
 
 - 🌱 I’m currently learning **React.js**
 
